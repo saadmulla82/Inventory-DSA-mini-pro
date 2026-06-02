@@ -1,0 +1,202 @@
+id,name,quantity,price
+1,Apple,150,2.5
+2,Banana,200,1.5
+3,Orange,120,3
+4,Mango,80,4.5
+5,Grapes,100,5
+6,Watermelon,40,8
+7,Pineapple,60,6.5
+8,Strawberry,180,4
+9,Blueberry,110,5.5
+10,Raspberry,95,6
+11,Papaya,75,3.5
+12,Guava,85,2.75
+13,Kiwi,130,4.25
+14,Lemon,160,1.75
+15,Lime,140,2
+16,Coconut,50,4
+17,Avocado,70,5.75
+18,Peach,100,3.75
+19,Plum,90,3.25
+20,Cherry,110,6.5
+21,Date,80,7
+22,Fig,60,8.5
+23,Pomegranate,55,6
+24,Apricot,100,4.5
+25,Olive,75,5.5
+26,Tomato,200,2
+27,Potato,300,0.75
+28,Onion,250,1
+29,Garlic,180,2.5
+30,Carrot,220,1.25
+31,Cabbage,150,1.5
+32,Broccoli,100,3
+33,Cauliflower,90,3.5
+34,Spinach,120,2.75
+35,Lettuce,140,2.25
+36,Cucumber,160,1.5
+37,Bell Pepper,130,2.5
+38,Chili Pepper,90,3
+39,Zucchini,110,2
+40,Eggplant,85,3.5
+41,Corn,140,1.75
+42,Peas,100,2.5
+43,Beans,120,2
+44,Pumpkin,60,3
+45,Radish,95,1.5
+46,Turnip,80,1.75
+47,Beet,85,2
+48,Asparagus,70,4.5
+49,Mushroom,110,3.75
+50,Leek,75,2.75
+51,Milk,250,3.5
+52,Yogurt,180,2.75
+53,Cheese,120,5.5
+54,Butter,95,6
+55,Cream,80,4.5
+56,Ice Cream,140,4
+57,Curd,100,2.5
+58,Paneer,85,7
+59,Mozzarella,70,6.5
+60,Cheddar,75,7.5
+61,Chicken,150,8
+62,Beef,100,10
+63,Pork,90,8.5
+64,Lamb,80,12
+65,Turkey,60,9.5
+66,Duck,50,10.5
+67,Fish,120,7
+68,Salmon,70,12
+69,Tuna,85,9
+70,Shrimp,65,11
+71,Crab,55,13
+72,Lobster,40,15
+73,Egg,200,0.5
+74,Bread,180,2.5
+75,Rice,250,3
+76,Wheat,200,2.75
+77,Flour,150,2
+78,Oats,120,3.5
+79,Pasta,140,2.25
+80,Noodles,160,1.75
+81,Cereal,100,4
+82,Cornflakes,95,3.5
+83,Sugar,180,2.5
+84,Salt,140,1
+85,Honey,110,8
+86,Jam,85,3.5
+87,Peanut Butter,70,5.5
+88,Nutella,60,6
+89,Chocolate,130,2.5
+90,Candy,150,1.5
+91,Biscuit,160,2
+92,Cake,80,5
+93,Cookie,120,2.75
+94,Donut,100,1.5
+95,Muffin,90,2.25
+96,Bread Loaf,110,3
+97,Croissant,75,3.5
+98,Bagel,85,2.5
+99,Toast,100,2
+100,Waffle,70,3.75
+101,Oil,140,6
+102,Ghee,110,8.5
+103,Vinegar,100,2
+104,Soy Sauce,90,3
+105,Tomato Sauce,120,2.5
+106,Mustard,80,1.5
+107,Ketchup,130,2
+108,Mayo,95,3.5
+109,Salt,150,1
+110,Pepper,100,4.5
+111,Spice Mix,85,5
+112,Chili Powder,75,3.5
+113,Turmeric,80,4
+114,Cumin,90,4.5
+115,Coriander,85,4.25
+116,Cinnamon,70,6
+117,Clove,60,7
+118,Cardamom,55,8.5
+119,Nutmeg,65,7.5
+120,Ginger,120,2.5
+121,Apple Juice,140,2.5
+122,Orange Juice,160,2
+123,Banana Juice,110,2.25
+124,Mango Juice,130,3
+125,Grape Juice,100,2.75
+126,Milk,180,3.5
+127,Yogurt Drink,150,2
+128,Lassi,120,2.5
+129,Coffee,100,6
+130,Tea,140,3.5
+131,Green Tea,85,4.5
+132,Herbal Tea,95,3.75
+133,Hot Chocolate,110,4
+134,Juice Box,200,1.5
+135,Soft Drink,160,1.75
+136,Energy Drink,130,3
+137,Water,300,0.5
+138,Coconut Water,120,2.5
+139,Almond Milk,100,4
+140,Soy Milk,90,3.75
+141,Rice Milk,85,3.5
+142,Oat Milk,95,3.25
+143,Cheese Pizza,70,8
+144,Margherita,65,7.5
+145,Pepperoni,75,8.5
+146,Vegetarian,80,7
+147,Chicken Pizza,85,9
+148,BBQ Chicken,70,9.5
+149,Veggie Burger,60,5.5
+150,Beef Burger,75,6
+151,Chicken Burger,80,5.75
+152,Hot Dog,90,4
+153,French Fries,140,2.5
+154,Onion Rings,110,3
+155,Chicken Nuggets,120,4.5
+156,Fish Sticks,100,4
+157,Dumplings,85,5
+158,Spring Roll,95,3.5
+159,Samosa,110,2
+160,Pakora,100,2.5
+161,Nachos,80,3
+162,Popcorn,150,2.5
+163,Chips,200,1.5
+164,Pretzels,120,2
+165,Crackers,140,1.75
+166,Granola Bar,130,2.5
+167,Protein Bar,100,3.5
+168,Cereal Bar,95,2.75
+169,Yogurt Bar,90,2.25
+170,Ice Cream Bar,110,2
+171,Popsicle,140,1.5
+172,Candy Bar,150,1.25
+173,Lollipop,200,0.5
+174,Gum,180,0.75
+175,Mints,160,1
+176,Licorice,140,1.5
+177,Marshmallow,120,2
+178,Fudge,100,3
+179,Toffee,95,2.5
+180,Caramel,110,2.75
+181,Almond,150,10
+182,Cashew,140,12
+183,Walnut,130,11
+184,Peanut,160,4.5
+185,Pistachio,120,9
+186,Hazelnut,100,8.5
+187,Sunflower Seeds,180,3.5
+188,Pumpkin Seeds,150,4
+189,Sesame Seeds,140,5.5
+190,Chia Seeds,120,6
+191,Flax Seeds,110,5.5
+192,Hemp Seeds,90,7
+193,Coconut Milk,110,3.5
+194,Almond Butter,85,6.5
+195,Tahini,75,5.5
+196,Hummus,100,3
+197,Guacamole,80,4.5
+198,Salsa,95,2.5
+199,Dressing,110,3.75
+200,Seasoning,100,4
+202,MustardMango,500,6767
